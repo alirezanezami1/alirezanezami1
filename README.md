@@ -1,16 +1,22 @@
-### Hi there 👋
+<h2 align="center"> Hi, I'm Alireza Nezami </h2>
+<h3 align="center">Front-end Developer</h3>
 
-<!--
-**alirezanezami1/alirezanezami1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <img src="https://octodex.github.com/images/spidertocat.png" width="55" > A little more about me...
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const response = {
+  pronouns: "He" | "him",
+  langs: [Javascript , HTML, CSS],
+  tools: [
+    "bootstrap",
+    "sass",
+    "Styled - Components",
+    "git",
+  ],
+  hobbies: ["exercise", "book", "hiking", "creating", "surfing the web"],
+  daily activity:
+    "Focus on learning",
+  currently:
+    "learn react"
+};
+```
