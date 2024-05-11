@@ -13,6 +13,7 @@ const response = {
     "sass",
     "Styled - Components",
     "git",
+    "npm"
   ],
   hobbies: ["exercise", "book", "hiking", "creating", "surfing the web"],
   daily activity:
