@@ -4,39 +4,25 @@
 
 ### <img src="https://octodex.github.com/images/spidertocat.png" width="55" > A little more about me...
 
-```javascript
-const response = {
-  pronouns: "He" | "him",
-  langs: [Javascript , HTML, CSS],
-  tools: [
-    "bootstrap",
-    "sass",
-    "Styled - Components",
-    "git",
-    "npm"
-  ],
-  hobbies: ["exercise", "book", "hiking", "creating", "surfing the web"],
-  daily activity:
-    "Focus on learning",
-  currently:
-    "learn react"
-};
-```
+<div align="center">  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
+<a href="https://nuxtjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nuxt.png" alt="Nuxt JS" height="50" /></a>  
+<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+</div>
+
 ____
 
 ##### ✉️ How to reach me nezamialireza1022@gmail.com
 
 
-____
 
-<h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/alirezanezami1">
-<div><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alirezanezami1&theme=github_dark" height="180em" /></div>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alirezanezami1&theme=github_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alirezanezami1&theme=github_dark" height="180em" />
-</div>
-</div>
 
 
 
