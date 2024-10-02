@@ -1,5 +1,6 @@
-<h2 align="center"> Hi, I'm Alireza Nezami </h2>
-<h3 align="center">Front-end Developer</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=41B883&text=Hi,%20I'm%20Alireza%20Nezami&animation=fadeIn&desc=Front-end%20Developer&descAlignY=50&fontAlignY=34&fontColor=35495E&fontSize=42">
+</div>
 
 
 ### <img src="https://octodex.github.com/images/spidertocat.png" width="55" > A little more about me...
