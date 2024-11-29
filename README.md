@@ -1,48 +1,43 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=41B883&text=Hi,%20I'm%20Alireza%20Nezami&animation=fadeIn&desc=Front-end%20Developer&descAlignY=50&fontAlignY=34&fontColor=35495E&fontSize=42">
-</div>
+  ```
+        _ _                                                 _ _ 
+   __ _| (_)_ __ ___ ______ _ _ __   ___ ______ _ _ __ ___ (_) |
+  / _` | | | '__/ _ \_  / _` | '_ \ / _ \_  / _` | '_ ` _ \| | |
+ | (_| | | | | |  __// / (_| | | | |  __// / (_| | | | | | | | |
+  \__,_|_|_|_|  \___/___\__,_|_| |_|\___/___\__,_|_| |_| |_|_|_|
+                                                                
+```
 
+## Hi there! 👋
 
-###
+I'm **Alireza Nezami**, a passionate Front-End Developer with a focus on creating dynamic and responsive web applications. I love bringing ideas to life through innovative design and efficient coding.
 
-<h2 align="left">I code with</h2>
+## About Me
 
-###
+Based in **127.0.0.1**, I specialize in front-end development, utilizing technologies like Vue.js and Nuxt.js. Currently, I am enhancing my skills and working on various projects to make a meaningful impact in the tech community.
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="40" alt="vuetify logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nuxtjs" height="40" alt="nuxtjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-</div>
+## Skills & Technologies
 
-###
+js,vue,nuxtjs,tailwind,bootstrap
 
+## Top Projects
 
+- [Portfolio](https://github.com/alirezanezami1/Portfolio): My personal portfolio showcasing my work and skills. **Stars:** 0 | **Language:** Vue
+- [Nuxt-Dashboard](https://github.com/alirezanezami1/Nuxt-Dashboard): A dashboard built with Nuxt.js. **Stars:** 0 | **Language:** Vue
+- [Sneakers-Store](https://github.com/alirezanezami1/Sneakers-Store): An online store template for sneakers. **Stars:** 1 | **Language:** Vue
+- [Job-site](https://github.com/alirezanezami1/Job-site): A job listing website built with Vue.js. **Stars:** 0 | **Language:** Vue
+- [E-commerce-Website](https://github.com/alirezanezami1/E-commerce-Website): Design and develop an eCommerce website using HTML, CSS, JavaScript. **Stars:** 1 | **Language:** HTML
 
-____
+## GitHub Stats
 
-#### ✉️ How to reach me nezamialireza1022@gmail.com
+🌟 **Public Repositories:** 14  
+👥 **Followers:** 80  
+🔄 **Following:** 59  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alirezanezami1&show_icons=true&theme=radical)
 
+## Latest Blog Posts
 
+Currently, I don't have any blog posts to share, but stay tuned for updates!
 
+## Connect with Me
 
-
-
+{"generic":"https://t.me/itsarn01"}
