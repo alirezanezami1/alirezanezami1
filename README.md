@@ -28,10 +28,6 @@ js,vue,nuxtjs,tailwind,bootstrap
 - [E-commerce-Website](https://github.com/alirezanezami1/E-commerce-Website): Design and develop an eCommerce website using HTML, CSS, JavaScript. **Stars:** 1 | **Language:** HTML
 
 ## GitHub Stats
-
-🌟 **Public Repositories:** 14  
-👥 **Followers:** 80  
-🔄 **Following:** 59  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alirezanezami1&show_icons=true&theme=radical)
 
 ## Latest Blog Posts
