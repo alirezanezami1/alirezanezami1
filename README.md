@@ -16,15 +16,20 @@ Based in **127.0.0.1**, I specialize in front-end development, utilizing technol
 
 ## Skills & Technologies
 
-js,vue,nuxtjs,tailwind,bootstrap
+[![My Skills](https://skillicons.dev/icons?i=js,vue,nuxtjs,tailwind&perline=8)](https://skillicons.dev)
 
 ## Top Projects
 
-- [Portfolio](https://github.com/alirezanezami1/Portfolio): My personal portfolio showcasing my work and skills. **Stars:** 0 | **Language:** Vue
-- [Nuxt-Dashboard](https://github.com/alirezanezami1/Nuxt-Dashboard): A dashboard built with Nuxt.js. **Stars:** 0 | **Language:** Vue
-- [Sneakers-Store](https://github.com/alirezanezami1/Sneakers-Store): An online store template for sneakers. **Stars:** 1 | **Language:** Vue
-- [Job-site](https://github.com/alirezanezami1/Job-site): A job listing website built with Vue.js. **Stars:** 0 | **Language:** Vue
-- [E-commerce-Website](https://github.com/alirezanezami1/E-commerce-Website): Design and develop an eCommerce website using HTML, CSS, JavaScript. **Stars:** 1 | **Language:** HTML
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=alirezanezami1&repo=Portfolio&theme=dark)](https://github.com/alirezanezami1/Portfolio)
+---
+[![Job-site](https://github-readme-stats.vercel.app/api/pin/?username=alirezanezami1&repo=Job-site&theme=dark)](https://github.com/alirezanezami1/Job-site)
+---
+[![E-commerce-Website](https://github-readme-stats.vercel.app/api/pin/?username=alirezanezami1&repo=E-commerce-Website&theme=dark)](https://github.com/alirezanezami1/E-commerce-Website)
+---
+[![Sneakers-Store](https://github-readme-stats.vercel.app/api/pin/?username=alirezanezami1&repo=Sneakers-Store&theme=dark)](https://github.com/alirezanezami1/Sneakers-Store)
+---
+[![Nuxt-Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=alirezanezami1&repo=Nuxt-Dashboard&theme=dark)](https://github.com/alirezanezami1/Nuxt-Dashboard)
+---
 
 ## GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alirezanezami1&show_icons=true&theme=radical)
