@@ -27,12 +27,6 @@ Based in **127.0.0.1**, I specialize in front-end development, utilizing technol
 [![Sneakers-Store](https://github-readme-stats.vercel.app/api/pin/?username=alirezanezami1&repo=Sneakers-Store&theme=dark)](https://github.com/alirezanezami1/Sneakers-Store)
 ---
 
-## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alirezanezami1&show_icons=true&theme=radical)
-
-## Latest Blog Posts
-
-Currently, I don't have any blog posts to share, but stay tuned for updates!
 
 ## Connect with Me
 
