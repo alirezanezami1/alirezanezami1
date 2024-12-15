@@ -32,3 +32,4 @@ Based in **127.0.0.1**, I specialize in front-end development, utilizing technol
 
 
 [<img src="https://img.icons8.com/?size=100&id=k4jADXhS5U1t&format=png&color=000000" style="width:70px">](https://t.me/itsarn01)
+[<img src="https://img.icons8.com/?size=100&id=xLIkjgcmFOsC&format=png&color=000000" style="width:70px">](mailto:nezamialireza1022@gmail.com?subject=)
