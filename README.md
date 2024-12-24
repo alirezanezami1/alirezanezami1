@@ -25,8 +25,7 @@ Based in **127.0.0.1**, I specialize in front-end development, utilizing technol
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=alirezanezami1&repo=Portfolio&theme=dark)](https://github.com/alirezanezami1/Portfolio)
 ---
 [![E-commerce-Website](https://github-readme-stats.vercel.app/api/pin/?username=alirezanezami1&repo=E-commerce-Website&theme=dark)](https://github.com/alirezanezami1/E-commerce-Website)
----
-[![Sneakers-Store](https://github-readme-stats.vercel.app/api/pin/?username=alirezanezami1&repo=Sneakers-Store&theme=dark)](https://github.com/alirezanezami1/Sneakers-Store)
+
 
 
 ## Connect with Me
