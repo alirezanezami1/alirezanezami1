@@ -24,7 +24,7 @@ Based in **127.0.0.1**, I specialize in front-end development, utilizing technol
 
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=alirezanezami1&repo=portfolio-public-repo&theme=dark)](https://github.com/alirezanezami1/portfolio-public-repo)
 ---
-[![E-commerce-Website](https://github-readme-stats.vercel.app/api/pin/?username=alirezanezami1&repo=E-commerce-template&theme=dark)](https://github.com/alirezanezami1/E-commerce-Website)
+[![E-commerce-Website](https://github-readme-stats.vercel.app/api/pin/?username=alirezanezami1&repo=E-commerce-template&theme=dark)](https://github.com/alirezanezami1/E-commerce-template)
 
 
 
