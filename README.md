@@ -18,7 +18,6 @@ Based in **127.0.0.1**, I specialize in front-end development, utilizing technol
 
 [![My Skills](https://skillicons.dev/icons?i=js,vue,nuxtjs,tailwind&perline=8)](https://skillicons.dev)
 
-## Top Projects
 
 ## Top Projects
 
