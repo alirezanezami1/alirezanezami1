@@ -6,7 +6,7 @@
 ██   ██ ███████ ██ ██   ██ ███████ ███████ ██   ██     ██   ████ ███████ ███████ ██   ██ ██      ██ ██ 
 ```                                                                                                       
                                                                                                        
-## Hi there!👋
+## Hi there! 👋
 
 I'm **Alireza Nezami**, a passionate Front-End Developer with a focus on creating dynamic and responsive web applications. I love bringing ideas to life through innovative design and efficient coding.
 
