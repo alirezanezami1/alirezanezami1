@@ -16,20 +16,7 @@ Based in **127.0.0.1**, I specialize in front-end development, utilizing technol
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=js,vue,nuxtjs,tailwind,alpinejs&perline=8)](https://skillicons.dev)
-
-
-## Top Projects
-
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=alirezanezami1&repo=Portfolio&theme=dark)](https://github.com/alirezanezami1/Portfolio)
-----
-[![Job-Finder-App](https://github-readme-stats.vercel.app/api/pin/?username=alirezanezami1&repo=Job-Finder-App&theme=dark)](https://github.com/alirezanezami1/Job-Finder-App)
-----
-[![spotify-clone](https://github-readme-stats.vercel.app/api/pin/?username=alirezanezami1&repo=spotify-clone&theme=dark)](https://github.com/alirezanezami1/spotify-clone)
----
-[![E-commerce-Website](https://github-readme-stats.vercel.app/api/pin/?username=alirezanezami1&repo=E-commerce-template&theme=dark)](https://github.com/alirezanezami1/E-commerce-template)
-
-
+[![My Skills](https://skillicons.dev/icons?i=js,vue,react,nuxtjs,tailwind,alpinejs&perline=8)](https://skillicons.dev)
 
 ## Connect with Me
 
